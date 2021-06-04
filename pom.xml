@@ -17,7 +17,7 @@
     <properties>
         <java.version>11</java.version>
         <jaxb.version>2.2.11</jaxb.version>
-        <httpclient.version>4.5.10</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <maven-jaxb2-plugin.version>0.14.0</maven-jaxb2-plugin.version>
     </properties>
 
